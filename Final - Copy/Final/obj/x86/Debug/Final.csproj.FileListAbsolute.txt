@@ -1,0 +1,259 @@
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\Content\Hills Layer 01.xnb
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\Content\Hills Layer 02.xnb
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\Content\Hills Layer 03.xnb
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\Content\Hills Layer 04.xnb
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\Content\Hills Layer 05.xnb
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\Content\Hills Layer 06.xnb
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\Content\SwordGuy_SHEET.xnb
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\Final.exe
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\Final.pdb
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\u3184075\Source\Repos\Final\Final\obj\x86\Debug\Final.csprojAssemblyReference.cache
+c:\users\u3184075\Source\Repos\Final\Final\obj\x86\Debug\Final.csproj.CoreCompileInputs.cache
+c:\users\u3184075\Source\Repos\Final\Final\obj\x86\Debug\Final.csproj.CopyComplete
+c:\users\u3184075\Source\Repos\Final\Final\obj\x86\Debug\Final.exe
+c:\users\u3184075\Source\Repos\Final\Final\obj\x86\Debug\Final.pdb
+C:\Users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\Content\bat.xnb
+C:\Users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\Content\frog.xnb
+C:\Users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\Content\ghost.xnb
+C:\Users\u3184075\Source\Repos\Final\Final\bin\Windows\x86\Debug\Content\skeleton.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\Dino.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\bat.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\frog.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\ghost.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\Hills Layer 01.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\Hills Layer 02.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\Hills Layer 03.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\Hills Layer 04.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\Hills Layer 05.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\Hills Layer 06.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\skeleton.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\SwordGuy_SHEET.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Final.exe
+H:\Final\Final\bin\Windows\x86\Debug\Final.pdb
+H:\Final\Final\bin\Windows\x86\Debug\MonoGame.Framework.dll
+H:\Final\Final\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+H:\Final\Final\bin\Windows\x86\Debug\SharpDX.dll
+H:\Final\Final\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+H:\Final\Final\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+H:\Final\Final\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+H:\Final\Final\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+H:\Final\Final\bin\Windows\x86\Debug\SharpDX.XInput.dll
+H:\Final\Final\bin\Windows\x86\Debug\MonoGame.Framework.xml
+H:\Final\Final\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+H:\Final\Final\bin\Windows\x86\Debug\SharpDX.xml
+H:\Final\Final\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+H:\Final\Final\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+H:\Final\Final\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+H:\Final\Final\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+H:\Final\Final\bin\Windows\x86\Debug\SharpDX.XInput.xml
+H:\Final\Final\obj\x86\Debug\Final.csprojAssemblyReference.cache
+H:\Final\Final\obj\x86\Debug\Final.csproj.CoreCompileInputs.cache
+H:\Final\Final\obj\x86\Debug\Final.csproj.CopyComplete
+H:\Final\Final\obj\x86\Debug\Final.exe
+H:\Final\Final\obj\x86\Debug\Final.pdb
+H:\Final\Final\bin\Windows\x86\Debug\Content\Font.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\FOOD.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\demon.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\explosion-1.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\fireball.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\fire.xnb
+H:\Final\Final\bin\Windows\x86\Debug\Content\breath-fire.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\Dino.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\bat.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\breath-fire.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\demon.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\explosion-1.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\fire.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\Font.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\FOOD.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\frog.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\ghost.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\hero.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\Hills Layer 01.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\Hills Layer 02.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\Hills Layer 03.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\Hills Layer 04.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\Hills Layer 05.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\Hills Layer 06.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\skeleton.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\SwordGuy_SHEET.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Final.exe
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Final.pdb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\MonoGame.Framework.dll
+H:\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+H:\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.dll
+H:\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+H:\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+H:\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+H:\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+H:\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.XInput.dll
+H:\Final - Copy\Final\bin\Windows\x86\Debug\MonoGame.Framework.xml
+H:\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+H:\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.xml
+H:\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+H:\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+H:\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+H:\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+H:\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.XInput.xml
+H:\Final - Copy\Final\obj\x86\Debug\Final.csprojAssemblyReference.cache
+H:\Final - Copy\Final\obj\x86\Debug\Final.csproj.CoreCompileInputs.cache
+H:\Final - Copy\Final\obj\x86\Debug\Final.csproj.CopyComplete
+H:\Final - Copy\Final\obj\x86\Debug\Final.exe
+H:\Final - Copy\Final\obj\x86\Debug\Final.pdb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\apple.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\explosion-2.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\explosion-3.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\explosion-4.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\explosion-5.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\explosion-6.xnb
+H:\Final - Copy\Final\bin\Windows\x86\Debug\Content\12_nebula_spritesheet.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\Dino.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\apple.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\bat.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\demon.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\Font.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\FOOD.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\frog.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\ghost.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\hero.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\skeleton.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Final.exe
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Final.pdb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\MonoGame.Framework.dll
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.dll
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.XInput.dll
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\MonoGame.Framework.xml
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.xml
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.XInput.xml
+H:\Final - Copy\Final - Copy\Final\obj\x86\Debug\Final.csprojAssemblyReference.cache
+H:\Final - Copy\Final - Copy\Final\obj\x86\Debug\Final.csproj.CoreCompileInputs.cache
+H:\Final - Copy\Final - Copy\Final\obj\x86\Debug\Final.csproj.CopyComplete
+H:\Final - Copy\Final - Copy\Final\obj\x86\Debug\Final.exe
+H:\Final - Copy\Final - Copy\Final\obj\x86\Debug\Final.pdb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\fireball.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\logo.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\finalEffect.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\intro.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\map1.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\map2.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\map3.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\map4.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\moon.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\enemy-deadth.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\c1.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\c2.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\c3.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\c4.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\c5.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\c6.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\c7.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\highscore.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\introduction.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\lose.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\win.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\BossDie.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\fire.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\flame.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\herohurt.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\monster.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\slash.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\normallevel.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\final.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\town.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\File.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\pop.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\winning.xnb
+H:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\magicschool.xnb
+E:\Final - Copy\Final - Copy\Final\obj\x86\Debug\Final.csprojAssemblyReference.cache
+E:\Final - Copy\Final - Copy\Final\obj\x86\Debug\Final.csproj.CoreCompileInputs.cache
+E:\Final - Copy\Final - Copy\Final\obj\x86\Debug\Final.exe
+E:\Final - Copy\Final - Copy\Final\obj\x86\Debug\Final.pdb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\Dino.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\Font.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\apple.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\bat.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\c1.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\c2.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\c3.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\c4.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\c5.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\c6.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\c7.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\demon.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\enemy-deadth.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\finalEffect.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\fireball.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\FOOD.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\frog.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\ghost.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\hero.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\intro.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\logo.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\map1.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\map2.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\map3.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\map4.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\moon.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\skeleton.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\BossDie.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\File.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\final.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\fire.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\flame.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\herohurt.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\highscore.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\introduction.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\lose.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\magicschool.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\monster.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\normallevel.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\pop.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\slash.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\town.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\win.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Content\winning.xnb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Final.exe
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\Final.pdb
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.dll
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.xml
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Final - Copy\Final - Copy\Final\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Final - Copy\Final - Copy\Final\obj\x86\Debug\Final.csproj.CopyComplete

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/apple.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/bat.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/BossDie.wav</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/c1.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/c2.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/c3.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/c4.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/c5.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/c6.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/c7.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/demon.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/enemy-deadth.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/File.spritefont</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/final.wav</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/finalEffect.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/fire.wav</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/fireball.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/flame.wav</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/FOOD.PNG</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/frog.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/ghost.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/hero.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/herohurt.wav</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/highscore.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/intro.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/introduction.wav</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/logo.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/lose.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/magicschool.spritefont</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/map1.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/map2.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/map3.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/map4.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/monster.wav</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/moon.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/normallevel.wav</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/pop.wav</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/skeleton.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/slash.wav</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/town.wav</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/win.png</File>
+    <File>E:/Final - Copy/Final - Copy/Final/Content/winning.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
